@@ -14,3 +14,7 @@
 ## The most commonly used I/O functions in C are:
 -  printf(): used to display output on the screen
 -  scanf(): used to read input from the user
+
+# Image:
+
+![image](https://user-images.githubusercontent.com/117765637/231194401-ca0e6612-cc3d-4443-b377-0a7a03d2ff30.png)
