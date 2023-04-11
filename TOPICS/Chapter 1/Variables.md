@@ -10,3 +10,7 @@
 -  b. 1st character is alphabet or '_'
 -  c. No comma/blank space
 -  d. No other symbol other than '_'
+
+
+# Image:
+-  ![image](https://user-images.githubusercontent.com/117765637/231188650-a0a3a0e7-93e1-4150-9b91-af6a90c7d0ed.png)
