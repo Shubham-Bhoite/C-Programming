@@ -1,0 +1,24 @@
+1)  Area of Square:(Side is given)-
+
+#include<stdio.h>
+//area of square
+int main() {
+int side;
+printf("enter side");
+scanf("%d", &side);
+printf("area is :%d", side*side);
+return 0;
+}
+
+
+2)  Area of Circle:(Radius is given)-
+
+#include<stdio.h>
+//area of circle
+int main() {
+int radius;
+printf("enter radius");
+scanf("%d", &radius);
+printf("area is :%d", 3.14*radius*radius);
+return 0;
+}
