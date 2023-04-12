@@ -35,3 +35,17 @@ int main(){
  printf("\nTemperature in Fahrenheit : %f ", fah);
  return (0);
 }
+
+
+4) Find Area of Triangle:
+
+#include<stdio.h>
+
+int main(){
+    float b,h,area;
+    printf("Enter Height and Base Of Triangle : ");
+    scanf("%f %f",&h,&b);
+    area = (h*b)/2;
+    printf("Area of Triangle is: %f\n",area);
+    return 0;
+}
