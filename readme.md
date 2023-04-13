@@ -31,7 +31,7 @@
 - - - 
 
 ## [Chapter 7](https://github.com/Shubham-Bhoite/C-Programming/tree/main/TOPICS/Chapter%207)
--[Arrays](https://github.com/Shubham-Bhoite/C-Programming/blob/main/TOPICS/Chapter%207/Arrays.md)
+- [Arrays](https://github.com/Shubham-Bhoite/C-Programming/blob/main/TOPICS/Chapter%207/Arrays.md)
 - - - 
 
 ## [Chapter 8](https://github.com/Shubham-Bhoite/C-Programming/tree/main/TOPICS/Chapter%208)
