@@ -1,0 +1,51 @@
+1) Write program to check if number is divisible by 2 or not?
+
+#include<stdio.h>
+#include<math.h>
+int main() {
+    int x;
+    printf("enter a number:");
+    scanf("%d", &x);
+    printf("%d", x%2==0);
+    return 0;
+}
+
+
+2)Write program to check if number is odd or even?
+
+#include<stdio.h>
+#include<math.h>
+int main() {
+     // even ->1
+    // odd ->0
+    int x;
+    printf("enter a number:");
+    scanf("%d", &x);
+    printf("%d", x%2==0);
+    return 0;
+}
+
+3) If a number is greater than 9 and less than 100-> true
+[2 digit number]
+
+#include<stdio.h>
+#include<math.h>
+int main() {
+    int x;
+    printf("enter a number:");
+    scanf("%d", &x);
+    printf("%d \n", x>9 && x<100);
+    return 0;
+}
+
+4) Print 1(true) or 0(false) for following statements:
+       a) If it's sunday and it's snowing -> true
+
+#include<stdio.h>
+#include<math.h>
+int main() {
+    int isSunday=1;
+    int isSnowing=1;
+    printf("%d \n", isSunday && isSnowing);
+    return 0;
+}
