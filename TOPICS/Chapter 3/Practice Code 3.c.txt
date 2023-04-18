@@ -1,0 +1,69 @@
+1) Write program to check if a student passed or failed
+   marks >30 is PASS
+   marks <=30 is FAIL
+
+Ans:   
+
+   #include<stdio.h>
+int main(){
+    int marks;
+    printf("enter number(0-100):");
+    scanf("%d", & marks);
+
+    if (marks>=0 && marks<=30){
+        printf("fail \n");
+    }else if (marks>30 && marks<=100){
+        printf("pass \n");
+    }else{
+        printf("wrong marks");
+    }
+return 0;
+}
+
+
+2) Write program to give grades to a students marks <30 is C
+             30 <= marks <70 is B
+             70 <= marks <90 is A
+             90 <= marks <=100 is A+
+
+Ans:
+
+#include<stdio.h>
+int main(){
+    int marks;
+    printf("enter number(0-100):");
+    scanf("%d", & marks);
+
+    if(marks <30){
+        printf("C \n");
+    } else if (marks>=30 && marks<70){
+        printf("B \n");
+    }else if (marks>=70 && marks<90){
+        printf("A \n");
+    }else{
+        printf("A+ \n");
+    }
+return 0;
+}
+
+
+3) Write program to find if character entered by user is upper case or not.
+
+Ans:
+
+#include<stdio.h>
+int main(){
+    char ch;
+    printf("enter character:");
+    scanf("%c", & ch);
+
+    if(ch >= 'A'&& ch <='Z'){
+        printf("upper case \n");
+    } else if (ch>='a' && ch<='z'){
+        printf("lower case \n");
+    }
+    else{
+        printf("not english letter \n");
+    }
+return 0;
+}
