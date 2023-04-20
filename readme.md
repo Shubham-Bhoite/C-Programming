@@ -17,8 +17,8 @@
 ## [Chapter 3](https://github.com/Shubham-Bhoite/C-Programming/tree/main/TOPICS/Chapter%203)
 - [Conditional Statements](https://github.com/Shubham-Bhoite/C-Programming/blob/main/TOPICS/Chapter%203/Conditional%20Statements.md)
 - - - 
-## [Chapter 4](https://github.com/Shubham-Bhoite/C-Programming/tree/main/TOPICS/Chapter%204)
-- [Loop Control Statements](https://github.com/Shubham-Bhoite/C-Programming/blob/main/TOPICS/Chapter%204/Loop%20Control%20Statements.md)
+## [Chapter 4](TOPICS/Chapter%204/)
+- [Loop Control Statements](TOPICS/Chapter%204/Loop%20Control%20Statements.md)
 - - -
 
 ## [Chapter 5](https://github.com/Shubham-Bhoite/C-Programming/tree/main/TOPICS/Chapter%205)

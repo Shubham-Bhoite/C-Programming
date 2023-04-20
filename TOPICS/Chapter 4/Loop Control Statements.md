@@ -16,6 +16,7 @@
 -   The while loop is used when you want to repeat a block of code while a certain condition is true. 
 -   It consists of a conditional expression, and the code block continues to execute as long as the expression is true.
 
+
    ![image](../Images/whileloop.png)
 
 ## 3) Do-while Loop:
