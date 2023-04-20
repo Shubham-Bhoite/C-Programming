@@ -16,6 +16,8 @@
 -   The while loop is used when you want to repeat a block of code while a certain condition is true. 
 -   It consists of a conditional expression, and the code block continues to execute as long as the expression is true.
 
+   ![image](../Images/whileloop.png)
+
 ## 3) Do-while Loop:
 -   The do-while loop is similar to the while loop, except that the code block is executed at least once, regardless of whether the conditional expression is true or false. 
 -   It consists of the do keyword, followed by the code block, and then the while keyword and the conditional expression.
