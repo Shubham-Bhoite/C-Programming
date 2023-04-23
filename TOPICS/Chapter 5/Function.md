@@ -39,7 +39,7 @@
 
 ---
    ## Passing Arguments:
---- 
+ 
    function can take value and give some value.
 
    -   void printHello();
@@ -48,4 +48,3 @@
 
    -   int sum (int a, int b);
 
-   
