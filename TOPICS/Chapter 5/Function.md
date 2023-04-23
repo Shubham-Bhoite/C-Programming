@@ -22,6 +22,8 @@
     return 0;
 }
 ---
+   ![image](../Images/function.png)
+---
 
 # Properties:
 -    Execution always starts from main.
@@ -48,3 +50,6 @@
 
    -   int sum (int a, int b);
 
+## Example:
+
+![Image](../Images/functionsquare.png)
