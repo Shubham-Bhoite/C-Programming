@@ -22,7 +22,7 @@
 - - -
 
 ## [Chapter 5](https://github.com/Shubham-Bhoite/C-Programming/tree/main/TOPICS/Chapter%205)
-- [Functions](https://github.com/Shubham-Bhoite/C-Programming/blob/main/TOPICS/Chapter%205/Functions)
+- [Functions](https://github.com/Shubham-Bhoite/C-Programming/tree/main/TOPICS/Chapter%205)
 - [Recursion](https://github.com/Shubham-Bhoite/C-Programming/blob/main/TOPICS/Chapter%205/Recursion.md)
 - - - 
 
