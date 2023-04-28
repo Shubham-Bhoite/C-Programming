@@ -4,7 +4,10 @@
 
 ## Syntax:
 
-![image](../images/ptr%20Syntax.png)
+![image](https://user-images.githubusercontent.com/117765637/235034776-c2159b5b-90df-48a1-9d7b-4a06e4516b01.png)
+
+
+
 
 ---
 ## Pointer to Pointer:
@@ -19,4 +22,4 @@
 
 ## Pointers in Function Call:
 
-![image](../images/FunctionCall.png)
+![image](https://user-images.githubusercontent.com/117765637/235034649-03a6d7c9-da2a-4425-a848-79aaf86187da.png)
