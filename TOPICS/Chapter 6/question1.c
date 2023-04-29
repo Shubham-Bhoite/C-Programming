@@ -1,6 +1,7 @@
 // Question ==>  Swap (exchange) 2 numbers a&b.
 
-#include<stdio.h>
+#include <stdio.h>
+
 int main(){
     int x=3, y=5;
     _swap (&x, &y);
