@@ -10,7 +10,7 @@ int main(){
 }
 
 //call by reference
-void_swap (int *a, int *b){
+void _swap (int *a, int *b){
     int t=*a;
     *a=*b;
     *b=t;
