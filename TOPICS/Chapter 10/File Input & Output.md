@@ -54,3 +54,24 @@ fclose(fptr);
 3) "w"  ==> open to write
 4) "wb"  ==> open to write in binary
 5) "a"  ==>  open to append
+---
+
+## Reading from a file :
+
+char ch;
+
+fscanf(fptr, "%c", &ch);
+
+---
+
+## Writing to a file :
+
+char ch ='A';
+
+fprintf(fptr, "%c", ch);
+
+---
+
+## End of file :
+
+-   fgetc returns end of file to show that file has ended.
