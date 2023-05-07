@@ -1,0 +1,3 @@
+student name: shubham
+student age: 21
+student cgpa: 8.590000
